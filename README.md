@@ -42,17 +42,17 @@
 
 ## :rocket: Tecnologias
 
-- ✔️ [Node.js](https://nodejs.org)
-- ✔️ [Express](https://expressjs.com)
-- ✔️ [TypeScript](https://www.typescriptlang.org)
-- ✔️ [PostgreSQL](https://www.postgresql.org)
-- ✔️ [TypeORM](https://typeorm.io/)
-- ✔️ [Docker](https://www.docker.com)
-- ✔️ [Redis](https://redis.io)
-- ✔️ [Jest](https://jestjs.io)
-- ✔️ [JWT-token](https://jwt.io)
-- ✔️ [uuidV4](https://github.com/uuidjs/uuid)
-- ✔️ [Celebrate](https://github.com/arb/celebrate)
+- ✅ [Node.js](https://nodejs.org)
+- ✅ [Express](https://expressjs.com)
+- ✅ [TypeScript](https://www.typescriptlang.org)
+- ✅ [PostgreSQL](https://www.postgresql.org)
+- ✅ [TypeORM](https://typeorm.io/)
+- ✅ [Docker](https://www.docker.com)
+- ✅ [Redis](https://redis.io)
+- ✅ [Jest](https://jestjs.io)
+- ✅ [JWT-token](https://jwt.io)
+- ✅ [uuidV4](https://github.com/uuidjs/uuid)
+- ✅ [Celebrate](https://github.com/arb/celebrate)
 
 # Diagrama
 
